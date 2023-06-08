@@ -11,7 +11,7 @@ function Contact() {
             <span>felixakinloye247@gmail.com</span>
             <a
               className="btn PrimaryBtn"
-              href="mailto:your_email@gmail.com"
+              href="mailto:felixakinloye247@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
             >
