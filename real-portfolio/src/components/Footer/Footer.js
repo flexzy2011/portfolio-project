@@ -26,7 +26,7 @@ function Footer() {
         <span>
         @FLEXZY{" "}
           <a
-            href="https://github.com/gurupawar/"
+            href="https://github.com/flexzy2011"
             target="_blank"
             rel="noopener noreferrer"
           >
